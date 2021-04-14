@@ -1,5 +1,9 @@
-<<<<<<< HEAD
 # TodoFrontend
+
+Todo
+
+Web Frontend using React Webpack
+
 =======
 # Getting Started with Create React App
 
